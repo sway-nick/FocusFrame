@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Focus Frame</title>
+  </head>
+  <body>
+    <header>
+      <!-- (a>img)+(nav>ul>li*5>a)+button -->
+      <a href="./index.html">
+        <img src="./images/Focus.Frame.png" alt="logo" width="123"
+      /></a>
+      <nav>
+        <ul>
+          <li><a href="#about-us">About us</a></li>
+          <li><a href="#our-courses">Our courses</a></li>
+          <li><a href="#our-mentors">Our mentors</a></li>
+          <li><a href="#reviews">Reviews</a></li>
+          <li><a href="#contacts">contacts</a></li>
+        </ul>
+      </nav>
+      <button type="button">Sign up</button>
+    </header>
+
+    <main>
+      <section>
+        <!--  h1+p+img+(ul>li*3>img)+a+p+p -->
+        <h1>Discover the magic of photography in our school</h1>
+        <p>
+          Our photography school offers an unforgettable journey, where you can
+          learn the basics of composition, master technical skills, translate
+          your unique ideas.
+        </p>
+        <img src="./images/hero-photo.avif" alt="hero-photo" width="397" />
+        <ul>
+          <li>
+            <img src="./images/hero-girl.png" alt="hero-girl" width="54" />
+          </li>
+          <li><img src="./images/boy.png" alt="boy" width="54" /></li>
+          <li><img src="./images/girl.png" alt="girl" width="54" /></li>
+        </ul>
+        <a href="#">Our happy students</a>
+        <p>Reviews</p>
+        <p>+1500</p>
+      </section>
+      <section></section>
+      <section></section>
+      <section></section>
+      <section></section>
+      <section></section>
+    </main>
+
+    <footer></footer>
+  </body>
+</html>
+
